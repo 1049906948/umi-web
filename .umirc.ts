@@ -1,7 +1,13 @@
 import { defineConfig } from '@umijs/max';
 
 export default defineConfig({
-  antd: {},
+  antd: {
+    configProvider: {},
+    dark: false,
+    compact: false,
+    import: false,
+    style: 'less',
+  },
   access: {},
   model: {},
   initialState: {},
