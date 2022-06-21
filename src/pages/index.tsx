@@ -9,8 +9,7 @@ export default function HomePage() {
         <img src={yayJpg} width="388" />
       </p>
       <p>
-        To get started, edit <code>pages/index.tsx</code> and save to reload.
-      </p>
+         4545646
     </div>
   );
 }
